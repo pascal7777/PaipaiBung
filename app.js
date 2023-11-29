@@ -24,7 +24,7 @@ const reviewRoutes = require('./routes/reviews');
 
 
 
-const dbURL = process.env.DB_URL || 'mongodb://localhost:27017/paipaibung';
+const dbURL = process.env.DB_URL || 'mongodb://localhost:27017/bahp';
 const secret = process.env.SECRET || 'squirrel';
 
 const MongoStore = require('connect-mongo');
