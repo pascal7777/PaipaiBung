@@ -1,2 +1,2 @@
 Pai Bung 
-Laos worhty sites
+Laos worthy sites
